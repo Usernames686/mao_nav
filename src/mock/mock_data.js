@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1776752735742",
+          "name": "cnblog",
+          "url": "https://www.cnblogs.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -517,7 +524,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "haha导航🐱",
-  "search": "google",
-  "_fileSha": "36685bb2180d2619b6e89aa5d1041bbbf7356e2b"
+  "title": "猫猫导航🐱",
+  "search": "google"
 }

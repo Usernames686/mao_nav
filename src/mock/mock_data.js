@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1776761762711",
+          "name": "站点1",
+          "url": "http://64.90.14.72:8317/management.html#/login",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -520,35 +527,6 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1776759266292",
-      "icon": "⚙️",
-      "name": "CLA",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1776759310715",
-          "name": "站点1",
-          "url": "http://64.90.14.72:8317/management.html#/",
-          "description": "https://lll.dpdns.org/management.html#/usage",
-          "icon": ""
-        },
-        {
-          "id": "site-1776759385296",
-          "name": "站点2",
-          "url": "http://107.148.174.4:8317/management.html#/login",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1776759406368",
-          "name": "站点3",
-          "url": "http://38.76.218.47:8317/management.html#/",
-          "description": "",
-          "icon": ""
         }
       ]
     }

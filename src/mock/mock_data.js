@@ -97,13 +97,6 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
-        },
-        {
-          "id": "site-1776761762711",
-          "name": "站点1",
-          "url": "http://64.90.14.72:8317/management.html#/login",
-          "description": "",
-          "icon": ""
         }
       ]
     },

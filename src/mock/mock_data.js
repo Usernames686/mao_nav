@@ -525,6 +525,5 @@ export const mockData = {
     }
   ],
   "title": "hahatest",
-  "search": "google",
-  "_fileSha": "08e29de46c2fafc981715b8e84a83e55e4ed7d77"
+  "search": "google"
 }

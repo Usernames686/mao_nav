@@ -97,6 +97,20 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1776759177941",
+          "name": "gpt",
+          "url": "https://gpt.aixw.ccwu.cc",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1776759194507",
+          "name": "gpt",
+          "url": "https://gpt.aiwom.cc.cd/",
+          "description": "",
+          "icon": ""
         }
       ]
     },

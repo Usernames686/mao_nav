@@ -54,13 +54,6 @@ export const mockData = {
           "url": "https://www.cnblogs.com/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1778680514313",
-          "name": "1111",
-          "url": "http://64.83.46.3:8317/management.html#/login",
-          "description": "",
-          "icon": ""
         }
       ]
     },

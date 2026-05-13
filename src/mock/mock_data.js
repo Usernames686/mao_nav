@@ -62,7 +62,15 @@ export const mockData = {
       "icon": "🌐",
       "name": "CPA",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1778680338995",
+          "name": "111",
+          "url": "http://64.83.46.3:8317/management.html#/login",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "ai-tools",

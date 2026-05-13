@@ -69,7 +69,43 @@ export const mockData = {
       "icon": "🌐",
       "name": "CPA",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1778681014552",
+          "name": "1号",
+          "url": "http://64.90.14.72:8317/management.html#/quota",
+          "description": "香港",
+          "icon": ""
+        },
+        {
+          "id": "site-1778681138814",
+          "name": "3号",
+          "url": "http://64.81.113.84:8317/management.html#/login",
+          "description": "日本",
+          "icon": ""
+        },
+        {
+          "id": "site-1778681304820",
+          "name": "4号",
+          "url": "http://64.83.46.3:8317/management.html#/",
+          "description": "日本",
+          "icon": ""
+        },
+        {
+          "id": "site-1778681460168",
+          "name": "5号",
+          "url": "http://64.81.113.241:8317/management.html",
+          "description": "日本",
+          "icon": ""
+        },
+        {
+          "id": "site-1778681506160",
+          "name": "6号",
+          "url": "http://64.81.113.241:8317/management.html",
+          "description": "日本",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "ai-tools",

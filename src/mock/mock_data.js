@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://www.cnblogs.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1778680514313",
+          "name": "1111",
+          "url": "http://64.83.46.3:8317/management.html#/login",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -62,15 +69,7 @@ export const mockData = {
       "icon": "🌐",
       "name": "CPA",
       "order": 0,
-      "sites": [
-        {
-          "id": "site-1778680424010",
-          "name": "1111",
-          "url": "http://64.83.46.3:8317/management.html#/login",
-          "description": "",
-          "icon": ""
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",

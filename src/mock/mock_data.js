@@ -87,7 +87,7 @@ export const mockData = {
         {
           "id": "site-1778681460168",
           "name": "5号",
-          "url": "http://64.81.113.241:8317/management.html",
+          "url": "http://64.81.113.62:8317/management.html#/",
           "description": "日本",
           "icon": ""
         },
